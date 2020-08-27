@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 927b36e0583ef6b4a80b5cf6e405976b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blocksound: {fileID: 8300000, guid: a5704b7ac25a7fc429d825bedd933c94, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
